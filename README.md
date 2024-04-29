@@ -51,5 +51,5 @@ For any inquiries or questions regarding this project, please contact Osman Eren
 
 Happy Exploring!
 
-
+![maxresdefault](https://github.com/osmanerenoguzhan/Amazon-Prime-Power-BI-Project/assets/57762530/ce9b56ec-1639-4678-a845-623e84d79554)
 
